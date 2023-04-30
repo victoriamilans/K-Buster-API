@@ -1,7 +1,5 @@
 # K-Buster-API
 
-# M5 - Kenzie Buster
-
 ## Instalação dos pacotes de teste
 
 - Verifique se os pacotes `pytest` e/ou `pytest-testdox` estão instalados globalmente em seu sistema:
@@ -48,9 +46,7 @@ source venv/bin/activate
 pip install pytest-testdox pytest-django
 ```
 
-5. Vá até o arquivo `pytest.ini` e modifique o nome do projeto `my_project_name.settings` para o nome do **seu_projeto**.settings (onde se encontra o settings.py)
-
-6. Agora é só rodar os testes no diretório principal do projeto:
+5. Agora é só rodar os testes no diretório principal do projeto:
 
 ```shell
 pytest --testdox -vvs

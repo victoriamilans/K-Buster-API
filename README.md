@@ -63,23 +63,23 @@ Ao fim de cada tarefa será possível executar uma suite de testes direcionada �
 - Rodando testes da Tarefa 1:
 
 ```python
-pytest --testdox -vvs tests/tarefas/t1/
+pytest --testdox -vvs tests/tarefas/tarefa_1/
 ```
 
 - Rodando testes da Tarefa 2:
 
 ```python
-pytest --testdox -vvs tests/tarefas/t2/
+pytest --testdox -vvs tests/tarefas/tarefa_2/
 ```
 
 - Rodando testes da Tarefa 3:
 
 ```python
-pytest --testdox -vvs tests/tarefas/t3/
+pytest --testdox -vvs tests/tarefas/tarefa_3/
 ```
 
 - Rodando testes da Tarefa 4:
 
 ```python
-pytest --testdox -vvs tests/tarefas/t4/
+pytest --testdox -vvs tests/tarefas/tarefa_4/
 ```
